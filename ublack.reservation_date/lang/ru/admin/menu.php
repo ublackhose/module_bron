@@ -1,0 +1,5 @@
+<?php
+$MESS["UBLACK_SMTP_MAIN_MENU_TEXT"] = "IIKO ";
+$MESS["UBLACK_SMTP_INNER_MENU_SEND_TEXT"] = "Брони список";
+$MESS["UBLACK_SMTP_INNER_MENU_LOGS_TEXT"] = "Календарь бронирования админа";
+$MESS["UBLACK_SMTP_INNER_MENU_DEBUG_TEXT"] = "Логи";
